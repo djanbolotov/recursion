@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recursion/static/css/main.68a46348.chunk.css",
+    "main.js": "/recursion/static/js/main.14e79b2d.chunk.js",
+    "main.js.map": "/recursion/static/js/main.14e79b2d.chunk.js.map",
+    "runtime-main.js": "/recursion/static/js/runtime-main.b7402cbd.js",
+    "runtime-main.js.map": "/recursion/static/js/runtime-main.b7402cbd.js.map",
+    "static/js/2.a4d92185.chunk.js": "/recursion/static/js/2.a4d92185.chunk.js",
+    "static/js/2.a4d92185.chunk.js.map": "/recursion/static/js/2.a4d92185.chunk.js.map",
+    "index.html": "/recursion/index.html",
+    "static/css/main.68a46348.chunk.css.map": "/recursion/static/css/main.68a46348.chunk.css.map",
+    "static/js/2.a4d92185.chunk.js.LICENSE.txt": "/recursion/static/js/2.a4d92185.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7402cbd.js",
+    "static/js/2.a4d92185.chunk.js",
+    "static/css/main.68a46348.chunk.css",
+    "static/js/main.14e79b2d.chunk.js"
+  ]
+}
